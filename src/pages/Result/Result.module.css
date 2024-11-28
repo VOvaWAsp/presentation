@@ -1,0 +1,34 @@
+.containered {
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+
+.block {
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 400px;
+}
+
+.blockLink {
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 400px;
+}
+
+.link {
+    text-decoration: none;
+    color: wheat;
+    width: 40px;
+}

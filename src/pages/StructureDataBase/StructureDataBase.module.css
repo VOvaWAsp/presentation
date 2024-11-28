@@ -1,0 +1,50 @@
+.containered {
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+
+.block {
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 400px;
+}
+
+.block1 {
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 400px;
+}
+
+.block2 {
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 400px;
+}
+
+.blockLink {
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 90px;
+}
+
+.link {
+    text-decoration: none;
+    color: wheat;
+    width: 40px;
+}

@@ -1,0 +1,42 @@
+.container {
+    top: 0;
+    left: 0;
+    position: relative;
+    padding: 0px;
+}
+
+.img {
+    position: relative;
+    width: 100%;
+    height: auto; 
+}
+
+.block {
+    z-index: 999;
+    top: 33%; 
+    right: 10px; 
+    position: absolute;
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 900px;
+}
+
+.blockLink {
+    z-index: 999;
+    top: 60%; 
+    right: 100px; 
+    position: absolute;
+    background: black;
+    padding: 16px;
+    color: white; 
+    border-radius: 10px; 
+    width: 90px;
+}
+
+.link {
+    text-decoration: none;
+    color: wheat;
+    width: 40px;
+}
